@@ -1,0 +1,22 @@
+{
+  "name": "game-mrp102",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "game.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "game-mrp102": "^1.0.0"
+  }
+}
